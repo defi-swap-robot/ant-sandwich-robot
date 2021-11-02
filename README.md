@@ -90,3 +90,9 @@ defimaster2018@gmail.com
 
 
 ###### 8：支持定制策略
+```
+后端: golang
+前端：vue
+合约：solidity
+
+```
